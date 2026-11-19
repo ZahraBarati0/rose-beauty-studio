@@ -3,7 +3,7 @@
 A luxury beauty salon and skincare landing page built with **HTML, CSS, and Vanilla JavaScript** for **Assignment #1: Interactive & Responsive Landing Page**, Code To Inspire.
 
 - **GitHub Repository:** *https://github.com/ZahraBarati0/rose-beauty-studio*
-- **Live Website:** *https://zahrabarati0.github.io/rose-beauty-studio/?utm_source=chatgpt.com*
+- **Live Website:** *https://zahrabarati0.github.io/rose-beauty-studio*
 - **Twitter/X Post:** *Add your post link here*
 
 ## Sections
