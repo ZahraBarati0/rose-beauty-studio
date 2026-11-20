@@ -6,6 +6,15 @@ A luxury beauty salon and skincare landing page built with **HTML, CSS, and Vani
 - **Live Website:** *https://zahrabarati0.github.io/rose-beauty-studio*
 - **Twitter/X Post:** *https://x.com/Zahra270881/status/2123716417878921267?a=bpVRMw2kIoD7KWxGgYw&s=19*
 
+## Website Demo
+
+Watch a video demonstration of Rose Beauty Studio:
+
+
+https://github.com/user-attachments/assets/8d143ce4-2960-4241-a2bc-5345526d667c
+
+
+
 ## Sections
 
 - Home (Hero)
