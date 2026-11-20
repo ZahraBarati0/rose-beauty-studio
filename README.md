@@ -4,7 +4,7 @@ A luxury beauty salon and skincare landing page built with **HTML, CSS, and Vani
 
 - **GitHub Repository:** *https://github.com/ZahraBarati0/rose-beauty-studio*
 - **Live Website:** *https://zahrabarati0.github.io/rose-beauty-studio*
-- **Twitter/X Post:** *Add your post link here*
+- **Twitter/X Post:** *https://x.com/Zahra270881/status/2123716417878921267?a=bpVRMw2kIoD7KWxGgYw&s=19*
 
 ## Sections
 
@@ -89,23 +89,6 @@ my-landing-page/
 
 **Note:** An internet connection is required for Google Fonts and the embedded map.
 
-## Deployment (GitHub Pages)
-
-To publish the website using GitHub Pages:
-
-1. Create a public GitHub repository.
-2. Upload the project files. Make sure `index.html` is located in the repository root.
-3. Open **Settings → Pages** in your GitHub repository.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)` folder.
-6. Click **Save** and wait for GitHub Pages to publish the website.
-
-Your website will be available at:
-
-```text
-https://<username>.github.io/<repository-name>/
-```
-
 ## Notes
 
 - Rose Beauty Studio is a fictional luxury beauty salon concept based in Kabul, Afghanistan. The address, phone number, email, prices (AFN), artists, and testimonials are sample content created for this project.
@@ -113,7 +96,7 @@ https://<username>.github.io/<repository-name>/
 - The WhatsApp button uses a sample phone number. It can be updated in `index.html` by changing the `wa.me/...` link.
 - Social media icons currently link to the respective platforms' home pages and can be replaced with actual profile links.
 - All photographs were generated using an AI image generator.
-- AI assistance (Claude) was used during development. The code was reviewed, modified, and tested as part of the project.
+- AI assistance was used during development. The code was reviewed, modified, and tested as part of the project.
 
 ## Credits
 
